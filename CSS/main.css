@@ -1,0 +1,1682 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+    margin-right: -2em;
+    
+    
+}
+ul{
+    list-style-type: none;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+.top-part{
+    text-align: center;
+    padding: .9em, 1.2em;
+    background-color: white;
+    padding-top: -2.5em;
+}
+.firstsection{
+    text-align: center;
+    padding-top:-0.2em;
+    margin-top: em;
+    font: white;
+        
+}
+.backg{
+    background-image: url(../images/programmer.jpg);
+    width: 100%;
+    background-size: contain;
+    margin-top: 0em;
+}
+.logo{
+    width: 130px;
+    height: 30px;
+    margin-top: .3em;
+    margin-left:.6em;
+    
+
+   }
+   header{
+       display: flex;
+       justify-content: space-between;
+       text-decoration: none;
+   }
+   .hide-mobile{
+       display: none;
+   }
+   .menu{
+       width: 23px;
+       margin-top: 30%;
+       margin-right: 2em;
+   }
+   .coy{
+    padding: 1.6em;
+    color: white;
+   }
+   .remote {
+       color: white;
+   }
+   .ora{
+       color: orange;
+   }
+   
+   .another{
+       color: white;
+   }
+   
+   .getstarted{
+       background-color: orange;
+       width: 50%;
+       border-radius: 2px;
+       color: black;
+       padding: .5em;
+       text-decoration: none;
+       padding-bottom: 0.3em;
+   }
+   .cta{
+    background-color: orange;
+    width: calc(100 - 1em);
+    border-radius: 2px;
+    color: black;
+    padding: .5em;
+    text-decoration: none;
+    margin: 3% auto 7%;
+   }
+   .orange-container{
+       background-color: orange;
+       margin:-1.26em;
+      padding: 0.2em;
+      width: 102.8%;
+      padding-bottom: .8em;
+      font-weight: bold;
+      text-align: center;
+      font-size: 1em;
+      padding-left: 1em;
+      width: 100%;
+      padding-right: .29em;
+      
+      
+   }
+   h3 span{
+       display: block;
+       margin-top: 2em;
+
+   }
+   .white-container{
+       margin-left: 1.2em;
+       text-align: left;
+       background-color: white;
+       margin-top: -2.39em;
+       margin-left: 0em;
+       padding-left: 1em;
+   }
+   .build{
+       padding-top: 1em;
+   }
+   h3{
+       color: orange;
+   }
+   .hun{
+       color: blue;
+       font-weight: bold;
+   }
+   .number span{
+       font-size: 2.5em;
+       display: block;
+       color: cornflowerblue;
+   }
+   .number{
+       color: cornflowerblue;
+   }
+   .our{
+       font-size: 1em;
+       color: grey;
+   }
+   h5{
+       font-size: 1em;
+       color: black;
+   }
+   .offer span{
+       font-size: 2.5em;
+       color:purple;
+       display: block;
+   }
+   .offer{
+       color:purple;
+   }
+   .new
+{
+    font-size: 1em;
+    color: grey;
+}
+h6{
+    font-size: 1em;
+    color: black;
+}
+.match span{
+    font-size: 2.5em;
+    color: green;
+    display: block;
+    font-weight: 400;
+}
+.match{
+    color: green;
+    margin-top: -1em;
+}
+.we{
+    color: grey;
+    font-size: .9em;
+}
+.firstimg{
+    width: 60%;
+    margin-left: -0.7em;
+}
+.secondimg{
+   width: 60%; 
+   margin-left: 9em;
+   margin-top: -1em;
+}
+.thirdimg{
+    width: 60%;
+    margin-left: 4em;
+    margin-top: -1em;
+}
+.partners{
+    font-size: 1em;
+    color: black;
+}
+.partner{
+    display: flex;
+    margin: 0 -5px;
+    width: -10%;
+    
+}
+.one{
+    width: 60%;
+}
+.two{
+    width: 95%;
+    margin-top: 1.2em;
+    margin-left: -10px;
+    padding-left: -10em;
+}
+.three{
+    width: 40%;
+    margin: 0 -5px;
+    padding: .7em;
+    
+}
+.blue-container{
+    background-color: #00008B;
+    margin-top: -1.25em;
+      
+    
+}
+.second-team{
+    color: white;
+    padding-top: 1.5em;
+}
+.second-team strong{
+    color: orange;
+}
+.dec{
+    font-size: .9em;
+    color:rgb(248, 15, 248);
+    font-weight:bolder;
+   padding-top: 2em;
+   text-align: left;
+   margin-left: 1.2em;
+}
+.success{
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-left: .6em;
+}
+.las{
+    font-size: .98em;
+    color:rgb(190, 190, 190);
+    text-align: left;
+    margin-left: .6em;
+    line-height: 2em;
+}
+.emb{
+    font-size: 1em;
+    color: green;
+    font-weight: bolder;
+    margin-top: 1.5em;
+    text-align: left;
+    margin-left: 1.2em;
+}
+.And{
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-left: .6em;
+   
+}
+.eng{
+    font-size: .98em;
+    color:rgb(190, 190, 190);
+    text-align: left;
+    margin-left: .6em; 
+    line-height: 2em;
+}
+figure{
+    margin: 0;
+    padding:0;
+    color: white;
+    margin-top: 8em;
+    size: 10%;
+}
+figcaption{
+    color: orange;
+    font-weight: bold;
+    margin-bottom: 2em;
+    margin-top: -.6em;
+}
+blockquote{
+    color: pink;
+    font-style: italic;
+}
+
+hr{
+    width: 80%;
+    margin-left: 0em;
+    background-color: #666;
+    opacity: 0.5;
+    margin-bottom: 0.2em;
+    
+}
+.second-team{
+    text-transform: uppercase;
+}
+.ande{
+    width: 20%;
+    margin-left: -18em;
+    padding-top: 2em;
+}
+.ft a{
+    color:  #00008B;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 1.1em;
+    margin-left: 1.1em;
+    font-weight: 400;
+    line-height: 2em;
+
+}
+footer{
+    background-color:  white;
+    margin-top: -1.9em;
+}
+nav ul{
+    position: fixed;
+    top: 0;
+    width: 60%;
+    right: 0;
+    text-align: left;
+    background-color:rgb(28, 28, 194);
+    height: 100%;
+    z-index: 7;
+    padding-top: 3em;
+    margin-top: 0em;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 1em 2em;
+    width: 100%;
+}
+.exit-btn{
+    margin-bottom: 1em;
+    margin-top: -1.3em;
+    text-align: right;
+    padding: 0 1.4em;
+    
+}
+.exit-btn img{
+width: 15px;
+cursor: pointer;
+}
+@media only screen and (min-width:320px){
+    .backg{
+        background-size: cover;
+    }
+    .logo{
+        width:18.1%;
+    }
+    .remote{
+        font-size:.7em;
+        padding-top: 2em;
+    }
+    .another{
+        font-size: .6em;
+    }
+    .coy{
+        font-size: .5em;
+        padding-bottom: .5em;
+    }
+    .menu{
+        width:55%;
+    }
+    .ebook{
+        font-size:.5em;
+        padding-left: .4em;
+        padding-right: .4em;
+        padding-top: .3em;
+        padding-bottom: .5em;
+    }
+    .cta{
+        font-size:.5em
+    }
+    .build{
+        font-size: .8em;
+    }
+    .hun{
+        font-size:.53em
+    }
+    h4{
+        font-size:.5em;
+    }
+    .number{
+        font-size: .5em;
+    }
+    .our{
+        font-size:.54em;
+    }
+    h6{
+        font-size:.5em;
+    }
+    .offer{
+        font-size: .5em;
+    }
+    .new{
+        font-size: .54em;
+    }
+    h5{
+        font-size:.5em;
+    }
+    .match{
+        font-size: .5em;
+    }
+    .we{
+        font-size:.54em;
+    }
+    .partners{
+        font-size: .5em;
+    }
+    .two{
+        width:90%;
+    }
+    .three{
+        width: 70%;
+    }
+    .second-team{
+        font-size: 1em;
+        margin-left: -4.9em;
+    }
+    .dec{
+        font-size: .66em;
+    }
+    .success{
+        font-size: .89em;
+    }
+    .las{
+        font-size: .68em;
+    }
+    .emb{
+        font-size: .66em;
+    }
+    .And{
+        font-size: .89em;
+    }
+    .eng{
+        font-size:.68em;
+    }
+    figure{
+        margin-top: 3.2em;
+        padding-bottom: 2em;
+    }
+    figure img{
+        width: 13%;
+    }
+    .coy{
+        padding-bottom: 2em;
+    }
+    blockquote{
+        font-size: .7em;
+    }
+    figcaption{
+        font-size: .6em;
+        padding-top: 2em;
+        margin-top: -3em;
+    }
+    .ande{
+        margin-left: -15em;
+    }
+    .ft a{
+        margin-left: -2.1em;
+    }
+} 
+@media only screen and (min-width: 360px){
+    .backg{
+        background-size: cover;
+    }
+    .logo{
+        width: 20%;
+    }
+    .remote{
+        font-size: 1em;
+        padding-top: 2em;
+    }
+    .another{
+        font-size:.8em;
+        padding-left: .4em;
+        padding-right:.4em;
+        padding-bottom: .5em;
+    }
+    .cta{
+        width:2em;
+        font-size:.6em;
+    }
+    .ebook{
+        font-size:.6em;
+        padding-left: .3em;
+        padding-right: .3em;
+        padding-bottom: .5em;
+    }
+    .coy{
+        font-size:.6em;
+    }
+    .build{
+        font-size: .8em;
+    }
+    .hun{
+        font-size: .6em;
+    }
+    h4{
+        font-size: .5em;
+    }
+    .our{
+        font-size: .55em;
+    }
+    .number{
+        font-size:.65em;
+    }
+    h5{
+        font-size: .5em;
+    }
+    .offer{
+        font-size: .65em;
+    }
+    .new{
+        font-size:.55em;
+    }
+    h6{
+        font-size: .85em;
+    }
+    .match{
+        font-size: .8em;
+    }
+    .we{
+        font-size:.55em;
+    }
+    .partners{
+        font-size:.7em;
+        padding-bottom: .5em;
+    }
+    .three{
+        width: 60%;
+    }
+    .second-team{
+        font-size: 1em;
+        margin-left: -4.8em;
+    }
+    .dec{
+        font-size: .6em;
+    }
+    .success{
+        font-size: .8em;
+        
+    }
+    .las{
+        font-size: .63em;
+        padding-right: .4em;
+    }
+    .emb{
+        font-size: .6em;
+    }
+    .And{
+        font-size: .8em;
+    }
+    .eng{
+        font-size:.63em;
+        padding-right: .4em;
+    }
+    figure{
+        margin-top: 3em;
+        padding-bottom: 2em;
+    }
+    figure img{
+        width: 14%;
+        padding-top: -20em;
+    }
+    blockquote{
+        font-size:.7em;
+        padding-bottom: .2em;
+        
+    }
+    figcaption{
+        
+        font-size: .69em;
+    }
+    .ande{
+        padding-left: 2em;
+        margin-left: -18em;
+    }
+    .ft a{
+        margin-left: -1.8em;
+    }
+
+}
+
+@media only screen and (min-width:375px){
+  .remote{
+      padding-top: 3em;
+      font-size: 1.1em;
+  }  
+  .backg{
+      background-size:cover;
+  }
+  .another{
+      padding-left: .6em;
+      padding-right: 0.6;
+      font-size: .8em;
+      padding-bottom: .6em;
+  }
+  .logo{
+      width:24%
+  }
+  .coy{
+      font-size: .6em;
+  }
+  .ebook{
+      padding-left: .6em;
+      padding-right: .6em;
+      font-size: .7m;
+  }
+  .hun{
+      font-size: .5em;
+  }
+  .number{
+      font-size:.7em;
+  }
+  .our{
+      font-size:.6em;
+  }
+  .offer{
+      font-size:.7em;
+  }
+  .new{
+      font-size:.6em;
+  }
+  .we{
+      font-size: .6em;
+  }
+  .match{
+      font-size: .7em;
+  }
+  h6{
+      font-size: .5em;
+  }
+  .partners{
+      font-size: .8em;
+  }
+  .partner{
+      display: inline-flex;
+      padding-bottom: 0.5em;
+  }
+  .one{
+      width:50%
+  }
+  .two{
+      width: 100%;
+      
+  }
+  .three{
+      width: 55%;
+      margin-left: 2em;
+  }
+  .second-team{
+      font-size: 1.1em;
+      margin-left: -3.2em;
+  }
+  .success{
+    font-size: .9em;
+  }
+  .las{
+      font-size: .7em;
+      padding-left: 0.2em;
+      padding-right: 0.4em;
+      
+      
+  }
+  .And{
+      font-size: .9em;
+  }
+  .eng{
+      font-size: .7em;
+      padding-left: 0.2em;
+      padding-right: 0.4em;
+      padding-bottom: -1s2em;
+  }
+  figure img{
+      
+      width: 11%;
+  }
+  .figure{
+      margin-top: 3em
+  }
+  figcaption{
+      padding-bottom: 2em;
+      font-size: .5em;
+  }
+  blockquote{
+      font-size: .6em;
+  }
+  .ande{
+      width:17%;
+      padding-left: 1em;
+      margin-left: -18em;
+  }
+  .ft a{
+      text-align: left;
+      margin-left: -1.8em;
+  }
+
+}
+
+@media only screen and (min-width:411px){
+    .ande{
+        margin-left:-19.7em;
+        
+    }
+    .ft a{
+        font-size: 1.1em;
+    }
+}
+
+@media only screen and (min-width:499px){
+.logo{
+width: 15%;
+
+}
+
+.top-part{
+margin-bottom:-2em ;
+background-color: white;
+}
+.remote{
+font-size: 1.05em;
+padding-top: 5em;
+}
+.another{
+font-size: .7em;
+}
+.cta{
+width: 80%;
+font-size: .7em;
+}
+.coy{
+font-size: 0.8em;
+padding-bottom: 15em;
+
+}
+.ebook{
+font-size: .75em;
+padding-bottom: .5em;
+padding-left: 1em;
+padding-right: 1em;
+margin-top: 0em;
+padding-top: 1em;
+}
+.build{
+font-size: 1.3em;
+}
+.hun{
+font-size: .7em;
+}
+h4{
+font-size: .6em;
+}
+.number{
+font-size: .8em;
+font-weight: bold;
+}
+.our{
+font-size: .7em;
+}
+h5{
+font-size: .6em;
+}
+.offer{
+font-size: .8em;
+font-weight: bold;
+}
+.new{
+font-size: .7em;
+}
+h6{
+font-size: .6em;
+}
+.match{
+font-size: .8em;
+font-weight: bold;
+}
+.we{
+font-size: .7em;
+}
+.firstimg{
+width: 70%;
+}
+.secondimg{
+width: 70%;
+}
+.thirdimg{
+width: 70%;
+}
+.partners{
+font-size: .7em;
+font-weight: bold;
+}
+.partner{
+display: inline-flex;
+padding-bottom: 1.2em;
+}
+.one{
+width: 37%;
+}
+.two{
+width: 70%;
+}
+.three{
+width: 40%;
+}
+.second-team{
+font-size: 1.2em;
+text-align: left;
+padding-left: 4em;
+}
+.dec{
+font-size: .6em;
+}
+.success{
+font-size: 1em;
+}
+.las{
+font-size: .7em;
+padding-left: .2em;
+padding-right: 2em;
+}
+.eng{
+font-size: .7em;
+padding-left: .2em;
+padding-right: 2em;
+}
+.emb{
+font-size: .6em;
+}
+.And{
+font-size: 1em;
+}
+.our{
+font-size: .7em;
+
+}
+figure img{
+width: 10%;
+}
+figure{
+margin-top: 3em;
+}
+blockquote{
+font-size: .7em;
+}
+figcaption{
+padding-bottom: 2em;
+font-size: .6em;
+}
+.orange-container{
+margin-top: -2.1em;
+}
+.ande{
+width: 13%;
+text-align: left;
+margin-left: -32.5em;
+padding-left: 4.5em;
+}
+.ft a {
+margin-left: -2.9em;
+font-size: .84em;
+font-weight: 300;
+}
+
+}
+@media only screen and (min-width:650px){
+    .cta{
+        font-size: 1.1em;
+        padding-left: 0.8em;
+        padding-right: .8em;
+    }
+    .another{
+        font-size: 0.98em;
+    }
+    .coy{
+        font-size: .78em;
+    }
+    .menu{
+        width: 65%;
+    }
+    .second-team{
+        margin-left: -.75em;
+        font-size: 1.1em;
+    }
+    figure img{
+        width: 11%;
+    }
+    .ande{
+        margin-left: -35em;
+    }
+    .ft a{
+        margin-left: .2em;
+    }
+    .menu{
+        width: 40%;
+    }
+}
+@media only screen and (min-width:684px){
+    .ande{
+        margin-left: -35em;
+    }
+    .ft a{
+        margin-left: .6em;
+        font-size: 1.2em;
+    }
+}  
+
+@media only screen and (min-width: 698px){
+.remote{
+padding-top: 6em;
+}
+.ande{
+margin-left: -34.5em;
+}
+.ft a{
+font-size: 1.1em;
+}
+figure img{
+width: 10%;
+}
+
+}
+
+@media only screen and (min-width: 710px){
+.remote{
+padding-top: 7em;
+}
+.ebook{
+font-size: .76em;
+display: inline-flex;
+}
+.one{
+width: 35%;
+}
+.two{
+width: 65%;
+}
+.three{
+width: 35%;
+}
+.partner{
+padding-bottom: 1.2em;
+}
+figure img{
+width: 10%;
+}
+.ande{
+margin-left: -39em;
+}
+.ft a{
+font-size: 1em;
+}
+}
+
+@media only screen and (min-width: 720px){
+.remote{
+padding-top: 7em;
+font-size: 1.4em;
+}
+.cta {
+padding-left: 2em;
+padding-right: 2em;
+font-size: .8em;
+
+}
+.another{
+font-size: 1em;
+}
+.coy{
+font-size: .8em;
+}
+.ebook{
+font-size: .8em;
+}
+.orange-container{
+margin-top: -6.5em;
+}.build{
+    font-size: 1.1em;
+}
+.hun{
+font-size: .8em;
+}
+.number{
+font-size:.9em
+}
+.our{
+font-size: .7em;
+}
+h5{
+font-weight: bold;
+}
+.offer{
+font-size: .9em;
+}
+.we{
+font-size: .7em;
+}
+.new{
+font-size: .7em;
+}
+h6{
+font-weight: bold;
+
+}
+.match{
+font-size: .9em;
+}
+.partners{
+font-size: .8em;
+}
+.one{
+width: 30%;
+}
+.two{
+width: 65%;
+}
+.three{
+width: 33%
+}
+.second-team{
+font-size: 1.2em;
+}
+.dec{
+font-size: .6em
+}
+.success{
+font-size: 1em;
+padding-right: 0.8em;
+}
+.las{
+font-size: .8em;
+line-height: 2em;
+}
+.emb{
+font-size: .6em;
+}
+.And{
+font-size: 1em;
+padding-right: 0.8em;
+}
+.eng{
+font-size: .8em;
+line-height: 2em;
+}
+figure img{
+width: 11%;
+}
+blockquote{
+font-size: .8em;
+}
+.ande{
+margin-left: -39em;
+}
+.ft a{
+font-size: 1em;
+}
+}
+@media only screen and (min-width:742px){
+    .ande{
+        margin-left: -39em;
+        }
+        .ft a{
+        font-size: 1.1em;
+        padding-left: .5em;
+        }
+}
+@media only screen and (min-width:750px){
+    .cta{
+        font-size: 1em;
+        padding-left: 0.8em;
+        padding-right: .8em;
+    }
+    .remote{
+        font-size: 1.2em;
+    }
+    .another{
+        font-size: .9em;
+    }
+    .coy{
+        font-size: .7em;
+    }
+    .menu{
+        width: 65%;
+    }
+    .build{
+        font-size: 1.2em;
+    }
+    .hun{
+        font-size: .8em;
+    }
+    .second-team{
+        margin-left: -.75em;
+        font-size: 1.1em;
+    }
+    h4{
+        font-size: .7em;
+    }
+    .number{
+        font-size: .9em;
+    }
+    .our{
+        font-size: .75em;
+    }
+    h5{
+        font-size: .7em;
+    }
+    .offer{
+        font-size: .9em;
+    }
+    .new{
+        font-size: .75em;
+    }
+    h6{
+        font-size: .7em;
+    }
+    .match{
+        font-size: .9em;
+    }
+    .we{
+        font-size: .75em;
+    }
+    .second-team{
+        font-size: 1.1em;
+    }
+    .dec{
+        font-size: .5em;
+    }
+    .success{
+        font-size: .85em;
+    }
+    .las{
+        font-size: .7em;
+    }
+    .emb{
+        font-size: .5em;
+    }
+    .eng{
+        font-size: .7em;
+    }
+    figure img{
+        width: 8%;
+    }
+    .ande{
+        margin-left: -39.7em;
+    }
+    .ft a{
+        margin-left: .2em;
+    }
+    figcaption{
+        font-size: .69em;
+    }
+}
+@media only screen and (min-width:755px){
+    .we{
+        font-size: .75em;
+    }
+    .menu{
+        width:50%;
+    }
+    .cta{
+        font-size: .8em;
+    }
+}
+@media only screen and (min-width: 769px){
+    .second-team{
+        font-size: 1.1em;
+    }
+    .success{
+font-size: 1em;
+}
+.dec{
+font-size: .6em;
+}
+.las{
+font-size: .7em;
+}
+.emb{
+font-size: .6em;
+}
+.And{
+font-size: 1em;
+}
+.eng{
+font-size: .7em;
+}
+figure img{
+width: 9%;
+}
+blockquote{
+font-size: .7em;
+}
+figcaption{
+    font-size: .7em;
+}
+.ande{
+width: 12%;
+margin-left: -41em;
+}
+.ft a{
+font-size: 1.1em;
+}
+}
+@media only screen and (min-width: 790px){
+.ande{
+margin-left: -43em;
+}
+.ft a{
+font-size: 1em;
+}
+}
+@media only screen and (min-width: 791px){
+.remote{
+    padding-top: 8em;
+}
+.coy{
+    font-size:.89em;
+}
+.one{
+    width: 32%;
+}
+.two{
+    width: 67%;
+}
+.three{
+    width: 37%;
+}
+.eng{
+    padding-right: 2em;
+}
+figure img{
+    width:9% ;
+}
+blockquote{
+    font-size: .8em;
+}
+.ande{
+    margin-left: -44em;
+}
+.ft a{
+    font-size: 1em;
+}
+
+}
+@media only screen and (min-width: 807px){
+.one{
+width: 30%;
+}
+.two{
+width: 60%;
+}
+.three{
+width: 35%;
+}
+.las{
+padding-right: 0.5em;
+}
+.eng{
+padding-right:1.2em
+}
+blockquote{
+font-size: .87em;
+}
+.ande{
+width: 13%;
+margin-left: -41em;
+}
+.ft a{
+font-size: 1em;
+}
+.coy{
+    font-size: .8em;
+}
+
+}
+@media only screen and (min-width:824px){
+    .ande{
+        width: 12%;
+        margin-left: -43.5em;
+}
+.ft a{
+font-size: 1.1em;
+}
+.second-team{
+    font-size: 1.1em;
+}
+.success{
+font-size: 1em;
+}
+
+.dec{
+font-size: .6em;
+}
+.las{
+font-size: .7em;
+padding-right: 4em;
+}
+.emb{
+font-size: .6em;
+}
+.And{
+font-size: 1em;
+}
+.eng{
+font-size: .7em;
+padding-right: 4em;
+}
+blockquote{
+    font-size: .8em;
+}
+figcaption{
+    font-size: .75em;
+}
+
+}
+@media only screen and (min-width: 859px){
+    .logo{
+        width: 12%;
+    }
+    .remote{
+        font-size: 1.4em;
+    }
+    .another{
+        font-size: .8em;
+        padding-bottom: .7em;
+    }
+    .ebook{
+        font-size: .8em;
+    }
+    .las{
+        padding-right: .7em;
+        font-size: .83em
+    }
+    figure img{
+        width: 12%;
+    }
+    .ande{
+        margin-left: -47em;
+    }
+    figure img{
+        width: 9%;
+    }
+    blockquote{
+        font-size: .8em;
+    }
+    .eng{
+        font-size: .83em
+    }
+}
+@media only screen and (min-width: 870px){
+    .ande{
+        margin-left: -48em;
+    }
+    .figure img{
+        width: 10%;
+    } 
+    blockquote{
+        font-size: .8em;
+    }
+    figcaption{
+        font-size: .7em;
+    }
+    .ft a{
+        font-size: 1.1em;
+    }
+    .new{
+        font-size: 1.1em;
+    }
+    .we{
+        font-size: .88em;
+    }
+    .our{
+        font-size: .88em;
+    }
+    .number{
+        font-size: 1em;
+    }
+    .offer{
+        font-size:1em;
+    }
+    .match{
+        font-size: 1em;
+    }
+    .second-team{
+        font-size: 1.4em;
+    }
+    .dec{
+        font-size: .7em;
+    }
+    .success{
+        font-size: 1.1em;
+    }
+    .las{
+        font-size: .9em;
+        padding-right: 3em;
+    }
+    .emb{
+        font-size: .7em;
+    }
+    .And{
+        font-size: 1.1em;
+    }
+    .eng{
+        font-size: .9em;
+    }
+}
+@media only screen and (min-width: 993px){
+    
+    .ande{
+        width: 12%;
+        margin-left: -53em;
+}
+.ft a{
+    font-size: 1em;
+}
+.new{
+    font-size: .85em;
+}
+.we{
+    font-size: .85em;
+}
+.our{
+    font-size: .85em;
+}
+.number{
+    font-size: .9em;
+}
+.offer{
+    font-size:.9em;
+}
+.match{
+    font-size: .9em;
+}
+}
+@media only screen and (min-width:964px){
+    .ande{
+        width: 11%;
+        margin-left: -52em;
+    }
+    .new{
+        font-size: .85em;
+    }
+    .we{
+        font-size: .85em;
+    }
+    .our{
+        font-size: .85em;
+    }
+    .number{
+        font-size: .9em;
+    }
+    .offer{
+        font-size:.9em;
+    }
+    .match{
+        font-size: .9em;
+    }
+    figure img{
+        width: 8%;
+    }
+}
+@media only screen and (min-width:1024px){
+    .logo{
+        width: 9%;
+        height: 50%;
+        padding-left: 1em;
+        padding-top: .8em;
+    }
+    .menu{
+        width: 50px;
+    }
+    .remote{
+        font-size: 1.7em;
+        padding-top: 3em;
+    }
+    .another{
+        font-size: 1em;
+    }
+    .cta{
+        padding-left: 3em;
+        padding-right: 3em;
+        font-size: 1em;
+    }
+    .coy{
+        font-size: .85em;
+    }
+    .ebook{
+        font-size: .8em;
+        padding-bottom: 1.5em;
+    }
+    .backg{
+        margin-top: -5em;
+    }
+    .build{
+        font-size: 1.5em;
+    }
+    .hun{
+        font-size: 1.2em;
+        margin-left: 15em;
+    }
+    h4{
+        font-size: .8em;
+    }
+    .number{
+        font-size: 1em;
+    }
+    .our{
+        font-size: .9em;
+        margin-right: 3em;
+    }
+    h5{
+        font-size: .8em;
+    }
+    .offer{
+        font-size: 1em;
+    }
+    .we{
+        font-size: 1em;
+        margin-right: 3em;
+    }
+    .match{
+        font-size: 1em;
+    }
+    h6{
+        font-size: .8em;
+    }
+    .new{
+        font-size: 1em;
+        margin-right: 3em;
+    }
+    .partner img{
+        text-align: center;
+    }
+    .one{
+        width:70px;
+    }
+    .two{
+        width: 110px;
+        padding-left: 8rem;
+    }
+    .three{
+        width: 115px;
+        padding-left: 8rem;
+    }
+    .second-team{
+        font-size: 1.6em;
+    }
+    .success{
+        font-size: 1.5em;
+       
+    }
+    .dec{
+        font-size: .6em;
+    }
+    .las{
+        font-size: .87em;
+        padding-right:12em ;
+        
+        
+    }
+    
+    .emb{
+        font-size: .6em;
+        
+    }
+    .And{
+        font-size: 1.5em;
+        
+        
+        
+    }
+    .eng{
+        font-size: .87em;
+        padding-right:12em ;
+       
+        
+    }
+    figure img{
+        width: 7%;
+    }
+    .ft a{
+        font-size: 2em;
+        margin-left: -4em;
+    }
+    blockquote{
+        font-size: .8em;
+       padding-right:8em ;
+        padding-left: 8em;
+    }
+    figcaption{
+        font-size: .75em;
+    }
+    .blue-container{
+        text-align: center;
+    }
+    .ande{
+        width: 8%;
+        margin-left: -78em;
+       
+    }
+    .grid{
+        display:flex;
+    }
+    .hun{
+        padding-top: 8em;
+    }
+    .build{
+        font-size: 3em;
+    }
+    hr{
+        width: 50%;
+    }
+    .grid-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .second-grid{
+       padding-top: 13em;
+       padding-right: 1em;
+       
+    }
+    
+    .firstimg{
+        width: 500px;
+    }
+    .secondimg{
+        width: 500px;
+    }
+    .thirdimg{
+        width: 500px;
+    }
+    .partners{
+        font-size: .89em;
+    }
+   
+    .ft a{
+        font-size: 1em;
+        display: flex;
+        float: left;
+        text-align: center;
+        padding-left: 12em;
+    }
+    .show-desktop{
+        display: block;
+        margin: 0 auto 13%;
+    }
+    .hide-desktop{
+        display: none;
+    }
+    nav ul{
+        position: inherit;
+        width: auto;
+        background: none;
+        height: auto;
+        display: flex;
+    }
+    nav ul li{
+        float: left;
+        padding-right: 2em;
+    }
+    nav ul li a{
+        background-color:inherit;
+        color: black;
+        font-size: 1em;
+        text-align: left;
+    }
+    .getstarted{
+        width: 80px;
+        padding-right: 3.5em;
+        
+    }
+    body{
+        width: 100%;
+    }
+}
